@@ -9,24 +9,25 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        If you are ready to participate in a study, great! Here is the link to a [sign up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) where you can input you and your child’s information. After, we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in. <br>
+        If you are interested in joining the lab, please fill out the appropriate form on the Join the Lab page. <br>
+        If you would like to know more information, you can input any of your questions in the form below or email us directly. 
+      email: quadlab@psych.rutgers.edu
+      phone: 
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 152 Frelinghuysen Rd
+        city: Piscataway
+        region: NJ
+        postcode: '08850'
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '40.5234'
+        longitude: '-74.4658'
+      directions: Enter the Psychology Building, go downstairs and walk in the direction of ascending office numbers until you reach the annex.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Monday through Friday 9:00 to 5:00'
+      appointment_url: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -47,23 +48,4 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---
