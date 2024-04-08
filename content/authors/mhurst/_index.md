@@ -6,6 +6,9 @@ title: Michelle Hurst
 first_name: Michelle
 last_name: Hurst
 
+authors:
+- mhurst
+
 # Is this the primary user of the site?
 superuser: true
 
