@@ -7,7 +7,7 @@ first_name: Michelle
 last_name: Hurst
 
 authors:
-- mhurst
+- michelle-hurst
 
 # Is this the primary user of the site?
 superuser: true
