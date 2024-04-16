@@ -10,5 +10,12 @@ banner:
   image: ''
 ---
 
-Key Topics:
+**Key Topics:**
 
+Fractions **--** Proportion **--**  Decimals
+
+Spatial, Mathematical, and Relational Language **--** Numerical Cognition **--** Analogy
+
+Strategies **--** Open Science **--** STEM Education and Learning
+
+<br>
