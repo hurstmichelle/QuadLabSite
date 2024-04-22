@@ -12,10 +12,10 @@ banner:
 
 **Key Topics:**
 
-Fractions **--** Proportion **--**  Decimals
+(Fractions)[https://thequadlab.netlify.app/category/fractions/] **--** (Proportion)[https://thequadlab.netlify.app/category/proportion/] **--**  (Decimals)[https://thequadlab.netlify.app/category/decimals/]
 
-Spatial, Mathematical, and Relational Language **--** Numerical Cognition **--** Analogy
+(Spatial, Mathematical, and Relational Language)[https://thequadlab.netlify.app/category/spatial-mathematical-and-relational-language/] **--** (Numerical Cognition)[https://thequadlab.netlify.app/category/numerical-cognition/] **--** (Analogy)[https://thequadlab.netlify.app/category/analogy/]
 
-Strategies **--** Open Science **--** STEM Education and Learning
+(Strategies)[https://thequadlab.netlify.app/category/strategies/] **--** (Open Science)[https://thequadlab.netlify.app/category/open-science/] **--** (STEM Education and Learning)[https://thequadlab.netlify.app/category/stem-education-and-learning/]
 
 <br>
