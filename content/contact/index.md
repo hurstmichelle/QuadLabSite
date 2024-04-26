@@ -11,6 +11,7 @@ sections:
       text: |-
         If you are ready to participate in a study, great! Here is the link to a [sign up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) where you can input you and your child’s information. After, we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in. <br>
         If you are interested in joining the lab, please fill out the appropriate form on the Join the Lab page. <br>
+        If you would like to stay updated on our research, follow us on Instagram @quadlab.rutgers! <br>
         If you would like to know more information, you can input any of your questions in the form below or email us directly. 
       email: quadlab@psych.rutgers.edu
       phone: 
