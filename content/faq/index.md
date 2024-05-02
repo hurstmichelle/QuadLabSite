@@ -15,7 +15,7 @@ type: page
 ## General
 
 <p style="font-size: 23px">How can my child participate?</p>
-        <p style="margin-left: 20px">Not necessarily! While many of our studies do take place in person, we have a wide variety of studies that can be done over Zoom or are primarily run online.</p>
+        <p style="margin-left: 20px">If you and your child are interested in participating you can fill out our Sign Up form and we will reach out to you when they are eligible for a study.</p>
         <hr>
         <p style="font-size: 23px">I am an adult, can I participate or are your studies just for kids? </p>
         <p style="margin-left: 20px">We have studies for adults as well!</p>
