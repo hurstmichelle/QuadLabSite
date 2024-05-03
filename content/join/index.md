@@ -16,7 +16,7 @@ The Quad Lab is an enthusiastic group of scholars interested in research in deve
         
 ## Postdoctoral Scholars
         
-Unfortunately, we are not looking to hire a postdoc right now, but check back regularly for updates!
+We are not looking to hire a postdoc right now, but check back regularly for updates!
 
 ## Graduate Students
         
