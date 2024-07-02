@@ -10,7 +10,7 @@ sections:
       title: 
         <span style="color:teal">The Quad Lab</span>
       image:
-        filename: babyratios_icon_square.png
+        filename: characterlogo.png
       text: |
         <br>
         
