@@ -26,5 +26,4 @@ sections:
         {{< figure src="quadlab.png" caption="" numbered="false" >}}
       design:
         columns: '1'
-
 ---

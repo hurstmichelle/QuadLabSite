@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Paige Dadika
+title: Aileen Roldan
 
 # Full Name (for SEO)
-first_name: Paige
-last_name: Dadika
+first_name: Aileen
+last_name: Roldan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
   - name: Rutgers University
     url: ''
-    
+
 # Short bio (displayed in user profile at end of posts)
-bio: A recent Rutgers graduate interested in researching the development of mathematical reasoning.
+bio: 
 
 interests:
 
@@ -26,22 +26,22 @@ education:
   courses:
     - course: BA
       institution: Rutgers University
-      year: 2019-23
+      year: Current
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:paige.dadika@rutgers.edu'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:paige.dadika@rutgers.edu'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/DadikaPaige_CV.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/DadikaPaige_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  - Undergraduate Researchers
 ---
 
-I am a recent Rutgers University graduate who majored in cognitive science and minored in developmental psychology. I am taking the time to develop my research skills and interests before pursuing further education.
+
