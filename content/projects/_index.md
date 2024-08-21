@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Our Lines of Research
 
 # Listing view
 view: compact

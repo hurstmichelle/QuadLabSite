@@ -26,7 +26,7 @@ abstract: Adults show numerical interference during discrete proportional reason
 # Summary. An optional shortened abstract.
 summary: Adults’ continuous proportion comparisons are best captured by a proportion strategy, whereas discrete proportion comparisons showed a mixed pattern, with a slight preference for a numerator strategy.
 
-tags:
+tags: 
 
 categories:
 - Proportion
@@ -34,7 +34,7 @@ categories:
 
 featured: false
 
-# links:
+#links:
 # - name: ""
 #   url: ""
 url_pdf: https://escholarship.org/content/qt8kz9n4gt/qt8kz9n4gt.pdf
@@ -58,7 +58,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- reasoning-across-formats
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
