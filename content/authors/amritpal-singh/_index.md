@@ -18,7 +18,7 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: A postdoc interested in abstract cogniton between and within cultures
+bio: A postdoc interested in abstract cognition between and within cultures.
 
 interests:
   - Abstract, relational cognition and perception
