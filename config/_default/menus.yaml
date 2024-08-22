@@ -22,6 +22,4 @@ main:
   - name: FAQs
     url: faq
     weight: 15
-  - name: Projects
-    url: PROJECTS
-    weight: 10
+
