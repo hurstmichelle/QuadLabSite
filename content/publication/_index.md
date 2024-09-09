@@ -23,7 +23,7 @@ banner:
 
 <div style="display: flex; gap: 20px;">
     <a href="http://thequadlab.com/category/numerical-cognition/" class="button-custom">Numerical Cognition</a>
-    <a href="http://thequadlab.com/category/analogy/" class="button-custom">Decimals</a>
+    <a href="http://thequadlab.com/category/analogy/" class="button-custom">Analogy</a>
     <a href="http://thequadlab.com/category/strategies/" class="button-custom">Strategies</a>
     <a href="http://thequadlab.com/category/open-science/" class="button-custom">Open Science</a>
     <a href="http://thequadlab.com/category/stem-education-and-learning/" class="button-custom">Learning</a>
