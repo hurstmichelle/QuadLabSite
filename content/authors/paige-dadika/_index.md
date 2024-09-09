@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-    - course: BA
+    - course: BA in Cognitive Science
       institution: Rutgers University
       year: 2019-23
 
