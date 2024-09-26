@@ -10,7 +10,7 @@ date: "2024-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-01T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,7 +25,7 @@ abstract: "Despite proportional information being ubiquitous, there is not a sta
 
 
 # Summary. An optional shortened abstract.
-summary: "Behavioral modeling can be used to describe the systematic differences in strategy use by adults when reasoning about proportions."
+summary: Behavioral modeling can be used to describe the systematic differences in strategy use by adults when reasoning about proportions.
 
 tags:
 
