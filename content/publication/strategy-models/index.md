@@ -18,14 +18,14 @@ publishDate: ""
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cogntiion"
+publication: "Cognition"
 publication_short: ""
 
 abstract: "Despite proportional information being ubiquitous, there is not a standard account of proportional reasoning. Part of the difficulty is that there are several apparent contradictions: in some contexts, proportion is easy and privileged, while in others it is difficult and ignored. One possibility is that although we see similarities across tasks requiring proportional reasoning, people approach them with different strategies. We test this hypothesis by implementing strategies computationally and quantitatively comparing them with Bayesian tools, using data from continuous (e.g., pie chart) and discrete (e.g., dots) stimuli and preschoolers, 2nd and 5th graders, and adults. Overall, people's comparisons of highly regular and continuous proportion are better fit by proportion strategy models, but comparisons of discrete proportion are better fit by a numerator comparison model. These systematic differences in strategies suggest that there is not a single, simple explanation for behavior in terms of success or failure, but rather a variety of possible strategies that may be chosen in different contexts."
 
 
 # Summary. An optional shortened abstract.
-summary: Undergraduate research projects fail to meet the quality of research to make a substantial scientific contribution.
+summary: "Behavioral modeling can be used to describe the systematic differences in strategy use by adults when reasoning about proportions."
 
 tags:
 
