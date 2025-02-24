@@ -45,3 +45,13 @@ Ready to jump in?! Here is a list of our currently available research studies. B
 **Location:** Over video chat with a researcher. Use our [Sign Up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) or see our posting on [Children Helping Science](https://childrenhelpingscience.com/studies/7cd2aa34-32e4-4815-8fd8-af13bff04b2d/)!
 
 **Purpose:** Proportions come in so many different shapes and sizes, yet children and adults are often easily able to compare them! A single trip through the grocery store will have you estimating which of two trail mix packages in made up of more raisins, or how much flour you need to double your cake recipe. In this study, we are interested in how people's ability to make decisions with proportions changes as children get older and when the proportions look different.
+
+<img style="float: right; max-width: 35%; height: auto;" src="VerbalInterference.png">
+
+## Comparing quantities while talking?
+
+**Ages:** 5 to 7-years-old
+
+**Location:** In our lab at Rutgers University, New Bruswick! Use our [Sign Up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) and a researcher will reach out to schedule a time.
+
+**Purpose:** Proportional reasoning is important to our everyday lives, but people make a lot of mistakes when evaluating ratios, especially when the ratio in question is broken up into parts. This study is looking to explore the causes of this difficulty. 
