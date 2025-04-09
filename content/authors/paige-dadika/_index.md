@@ -18,7 +18,7 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: A recent Rutgers graduate interested in researching the development of mathematical reasoning.
+bio: I am a recent Rutgers Graduate who is interested in mathematical computations when performed by adults and children who have not yet received formal schooling. I will be attending the University of Pennsylvania Psychology Ph.D. Program beginning in Fall of 2025.
 
 interests:
 

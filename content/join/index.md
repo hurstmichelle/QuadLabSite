@@ -13,6 +13,10 @@ type: page
 <div align="left">
 
 The Quad Lab is an enthusiastic group of scholars interested in research in developmental cognitive science! We believe in the importance of fostering an inclusive and supportive environment, and actively work to create such an environment. Lab members can expect that I (the PI) will be organized, supportive, open-minded, and provide clear lines of communication. When I fall short of these expectations, I am open to and encourage feedback. In return, my expectation is that all lab members are also organized, supportive, open-minded, and provide clear lines of communication both with me and other lab members.
+
+## Lab Manager
+
+We are looking to hire a part-time lab manager to begin July 2025! This position is ideal for recent graduates who are interested in gaining more experience before applying to graduate school. Candidates should have good organizational skills, an ability to work within a team, comfort working with computers, the ability to pick up new skills quickly, and excitement about developmental psychology research. Experience coding (e.g. RStudio, Python, or JavaScript) is favored, but not necessary. If you are interested in the position, please reach out to Dr. Michelle Hurst at michelle.hurst@rutgers.edu.
         
 ## Postdoctoral Scholars
         
