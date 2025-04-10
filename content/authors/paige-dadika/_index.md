@@ -55,4 +55,4 @@ user_groups:
   - Staff
 ---
 
-I am a recent Rutgers University graduate who majored in cognitive science and minored in developmental psychology. I am taking the time to develop my research skills and interests before pursuing further education.
+I am a recent Rutgers Graduate who is interested in mathematical computations when performed by adults and children who have not yet received formal schooling. I will be attending the University of Pennsylvania Psychology Ph.D. Program beginning in Fall of 2025.
