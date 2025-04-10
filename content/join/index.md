@@ -24,7 +24,7 @@ We do not currently have any open postdoc positions. If you are interested in ap
 
 ## Graduate Students
         
-We will be considering applications for a Fall 2025 start date. You can learn more about the Psychology Graduate Program [here](https://psych.rutgers.edu/academics/graduate/graduate-program-overview#areas-of-study). Students in my lab are expected specialize in [Cognitive Psychology](https://psych.rutgers.edu/academics/graduate/co), and can optionally pursue a certificate in [Cognitive Science](https://ruccs.rutgers.edu/academics/graduate/graduate-certificate).
+The application cycle for Fall 2025 has finished. Check back to see if we will be accepting graduate students in the next cycle. You can learn more about the Psychology Graduate Program [here](https://psych.rutgers.edu/academics/graduate/graduate-program-overview#areas-of-study). Students in my lab are expected specialize in [Cognitive Psychology](https://psych.rutgers.edu/academics/graduate/co), and can optionally pursue a certificate in [Cognitive Science](https://ruccs.rutgers.edu/academics/graduate/graduate-certificate).
         <br>
 For more information about applying to work in the lab, please see {{% staticref "uploads/FAQs_gradschool.pdf" "newtab" %}}Potential Grad Student Q&A{{% /staticref %}}.
         
