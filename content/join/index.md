@@ -16,7 +16,7 @@ The Quad Lab is an enthusiastic group of scholars interested in research in deve
 
 ## Lab Manager
 
-We are looking to hire a part-time lab manager to begin July 2025! This position is ideal for recent graduates who are interested in gaining more experience before applying to graduate school. Candidates should have good organizational skills, an ability to work within a team, comfort working with computers, the ability to pick up new skills quickly, and excitement about developmental psychology research. Experience coding (e.g. RStudio, Python, or JavaScript) is favored, but not necessary. If you are interested in the position, please reach out to Dr. Michelle Hurst at michelle.hurst@rutgers.edu.
+We are looking to hire a part-time lab manager to begin July 2025! This position is ideal for recent graduates who are interested in gaining more experience before applying to graduate school. Candidates should have good organizational skills, an ability to work within a team, comfort working with computers, the ability to pick up new skills quickly, and excitement about developmental psychology research. Experience coding (e.g. RStudio, Python, or JavaScript) is favored, but not necessary. If you are interested in the position, please reach out to Dr. Michelle Hurst at michelle.hurst@rutgers.edu or [apply here](https://jobs.rutgers.edu/postings/248673).
         
 ## Postdoctoral Scholars
         
