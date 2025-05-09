@@ -15,11 +15,14 @@ main:
     weight: 40
   - name: For parents
     url: parents
-    weight: 10
+    weight: 5
   - name: Contact Us!
     url: contact
     weight: 60
   - name: FAQs
     url: faq
     weight: 15
+  # - name: Research
+  #   url: projects
+  #   weight: 10
 

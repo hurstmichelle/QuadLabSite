@@ -4,5 +4,6 @@ date: 2024-07-31
 show_date: false
 ---
 
-How do we think about proportions when they come in so many different shapes and sizes?
+How does the way we think about proportions change across development? What are some of the variations we can detect in adults?
 
+<!--more-->
