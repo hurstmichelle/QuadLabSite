@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aileen Roldan
+title: Julia Schoellkopff
 
 # Full Name (for SEO)
-first_name: Aileen
-last_name: Roldan
+first_name: Julia
+last_name: Schoellkopff
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,7 +26,7 @@ education:
   courses:
     - course: BA
       institution: Rutgers University
-      year: 2025
+      year: Current
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergraduate Researchers
 ---
 
 

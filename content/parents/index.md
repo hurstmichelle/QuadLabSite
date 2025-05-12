@@ -40,7 +40,7 @@ Ready to jump in?! Here is a list of our currently available research studies. B
 
 ## Comparing proportions in different shapes and sizes!
 
-**Ages:** 2.5 to 6-years-old
+**Ages:** 4 to 6-years-old
 
 **Location:** Over video chat with a researcher. Use our [Sign Up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) or see our posting on [Children Helping Science](https://childrenhelpingscience.com/studies/7cd2aa34-32e4-4815-8fd8-af13bff04b2d/)!
 
