@@ -27,7 +27,7 @@ education:
     - course: BA in Cognitive Science
       institution: Rutgers University
       year: 2019-23
-    - course: PhD in Psychology 
+    - course: Ph.D. in Psychology 
       institution: University of Pennsylvania
       year: Current
 
