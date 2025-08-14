@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aahana Bitla
+title: Nina Velasco
 
 # Full Name (for SEO)
-first_name: Aahana
-last_name: Bitla
+first_name: Nina
+last_name: Velasco
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honors Thesis Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

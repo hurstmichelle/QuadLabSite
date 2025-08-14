@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aahana Bitla
+title: Hailey Jani
 
 # Full Name (for SEO)
-first_name: Aahana
-last_name: Bitla
+first_name: Hailey
+last_name: Jani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honors Thesis Student
+role: SUPER Student
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Alumni
 ---
 
 

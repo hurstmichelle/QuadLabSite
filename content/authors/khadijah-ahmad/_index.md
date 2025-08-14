@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aahana Bitla
+title: Khadijah Ahmad
 
 # Full Name (for SEO)
-first_name: Aahana
-last_name: Bitla
+first_name: Khadijah
+last_name: Ahmad
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honors Thesis Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

@@ -1,31 +1,34 @@
 ---
 # Display name
-title: Aahana Bitla
+title: Paige Dadika
 
 # Full Name (for SEO)
-first_name: Aahana
-last_name: Bitla
+first_name: Paige
+last_name: Dadika
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honors Thesis Student
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
   - name: Rutgers University
     url: ''
-
+    
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: In Fall 2025, Paige began at the University of Pennsylvania Psychology Ph.D. program where she is working under Dr. Elizabeth Brannon.
 
 interests:
 
 education:
   courses:
-    - course: BA
+    - course: BA in Cognitive Science
       institution: Rutgers University
+      year: 2019-23
+    - course: PhD in Psychology 
+      institution: University of Pennsylvania
       year: Current
 
 # Social/Academic Networking
@@ -33,15 +36,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:paige.dadika@rutgers.edu'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:paigedadika@gmail.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/DadikaPaige_CV.pdf
+#  - icon: 
+#    icon_pack: 
+#    link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -52,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Alumni
 ---
 
-
+In Fall 2025, Paige began at the University of Pennsylvania Psychology Ph.D. program where she is working under Dr. Elizabeth Brannon.

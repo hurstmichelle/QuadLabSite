@@ -10,7 +10,7 @@ last_name: Roldan
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Honors Thesis Student
 
 # Organizations/Affiliations
 organizations:

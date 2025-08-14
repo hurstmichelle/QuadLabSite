@@ -1,47 +1,49 @@
 ---
 # Display name
-title: Aahana Bitla
+title: Khushi Shah
 
 # Full Name (for SEO)
-first_name: Aahana
-last_name: Bitla
+first_name: Khushi
+last_name: Shah
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honors Thesis Student
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
   - name: Rutgers University
     url: ''
-
+    
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Lab Manager interested in conceptual change and variability in learning across development 
 
 interests:
+- Cognitive Development
+- Early Education
 
 education:
   courses:
-    - course: BA
+    - course: BA in Cognitive Science and Psychology
       institution: Rutgers University
-      year: Current
+      year: 2021-25
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:paige.dadika@rutgers.edu'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:khushi.shahs@rutgers.edu'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/DadikaPaige_CV.pdf
+#  - icon: 
+#    icon_pack: 
+#    link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -52,7 +54,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Staff
 ---
 
+I am broadly interested in cognitive development and delineating the nature of conceptual change in children. I intend to leverage our knowledge of early cognition to help design early interventions in education that can address children’s intra-individual and inter-individual variability in learning throughout development.
 
+In the Quad Lab, I'm excited to learn about how children form and access their symbolic and non-symbolic representations of number and which cognitive strategies they use to compute quantitative information based on contextual cues.
