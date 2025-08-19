@@ -57,6 +57,6 @@ user_groups:
   - Staff
 ---
 
-I am broadly interested in cognitive development and delineating the nature of conceptual change in children. I intend to leverage our knowledge of early cognition to help design early interventions in education that can address children’s intra-individual and inter-individual variability in learning throughout development.
+I am broadly interested in cognitive development and delineating the nature of conceptual change in children. I intend to leverage our knowledge of early cognition to help design interventions in education that can address children’s intra-individual and inter-individual variability in learning throughout development.
 
 In the Quad Lab, I'm excited to learn about how children form and access their symbolic and non-symbolic representations of number and which cognitive strategies they use to compute quantitative information based on contextual cues.
