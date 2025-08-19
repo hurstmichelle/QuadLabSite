@@ -18,13 +18,13 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: A postdoc interested in abstract cognition between and within cultures.
+bio: A postdoc interested in abstract cognition between and within cultures. 
 
 interests:
-  - Abstract, relational cognition and perception
-  - Cognitive development and diversity
-  - Philosophy
-  - Hiking, biking, nature walks, and birds
+- Abstract, relational cognition and perception 
+- Cognitive development and diversity
+- Philosophy 
+- Hiking, biking, nature walks, and birds 
 
 education:
   courses:
@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Singh_CV.pdf
+    link: uploads/Amritpal_Singh_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -65,4 +65,4 @@ user_groups:
   - Postdoctoral Scholars
 ---
 
-I am interested in abstract cognition. What are the contextual and developmental forces that shape how abstractly we think and the manner in which we reason about abstract entities? In my dissertation work, I investigated differences in abstract thought across and within cultures, operationalizing abstract thought in different ways (i.e., event cognition and analogical reasoning). In the Quad Lab, I am interested in studying how context and time can shape how we think and learn about abstractions like quantity, probability, and proportion.
+I am interested in abstract cognition. What are the contextual and developmental forces that shape how abstractly we think and the manner in which we reason about abstract entities? In my dissertation work, I investigated differences in abstract thought across and within cultures, operationalizing abstract thought in different ways (i.e., event cognition and analogical reasoning). In the Quad Lab, I am interested in studying how context and time shape how we think and learn about abstracts like quantity, probability, and proportion.
