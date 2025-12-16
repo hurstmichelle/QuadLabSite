@@ -21,8 +21,20 @@ organizations:
 bio: A current graduate student in the Rutgers University Psychology Department.
 
 interests:
+- Cognitive and Language Development
+- Bilingualism
 
 education:
+  courses:
+    - course: Major in Psychology
+      institution: Bryn Mawr College
+      year: 2019-21
+    - course: B.A. in Psychology and Economics
+      institution: Emory University
+      year: 2021-23
+    - course: Ph.D. in Psychology
+      institution: Rutgers University
+      year: 2025-current
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,4 +62,4 @@ highlight_name: false
 user_groups:
   - Graduate Students
 ---
-
+I'm interested in how environmental factors shape language development and how this process interacts with higher-order cognition (e.g. decision-making). In the Quad Lab, I aim to deepen these understandings through combining behavioral experiments, computational modeling, and potentially neuroimaging methods. The goal is to provide educators with evidence-based insights into how language and cognition co-develop, and together foster a more scientific and equitable learning environment for children.
