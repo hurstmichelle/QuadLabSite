@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ryan Sanfillippo
+title: Jion Shim
 
 # Full Name (for SEO)
-first_name: Ryan
-last_name: Sanfillippo
+first_name: Jion
+last_name: Shim
 
 # Is this the primary user of the site?
 superuser: false
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergraduate Researchers
 ---
 
 
