@@ -35,7 +35,7 @@ Ready to jump in?! Here is a list of our currently available research studies. B
 
 **Purpose:** Proportions come in so many different shapes and sizes, yet children and adults are often easily able to compare them! A single trip through the grocery store will have you estimating which of two trail mix packages in made up of more raisins, or how much flour you need to double your cake recipe. In this study, we are interested in how people's ability to make decisions with proportions changes as children get older and when the proportions look different.
 
-<img style="float: left; max-width: 35%; height: auto;" src="LanguageStudies.png">
+<br><img style="float: right; max-width: 35%; height: auto;" src="LanguageStudies.png"> 
 
 ## Do some of the dogs have a hat?
 
@@ -43,9 +43,11 @@ Ready to jump in?! Here is a list of our currently available research studies. B
 
 **Location:** Over video chat with a researcher. Use our [Sign Up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) or see our posting on [Children Helping Science](https://childrenhelpingscience.com/studies/0807da75-7a03-4874-8799-a196aef33f71/)!
 
-**Purpose:** There are many ways that language can be used to give quantity information about multiple objects or entities. We can use inexact words like “some,” “a few”, “each,” “all,” “most,” and “a lot,” precise numerical words like “three” and “four,” and phrases like “at least four,” “only three,” and “many of the Xs.” Previous research has shown that preschool- and kindergarten-aged children have yet to master the nuances of these words and phrases. In this study, we are interested in children’s preferred interpretation of these phrases, and how they change in different contexts and as they get older.
+**Purpose:** There are many ways that language can be used to give quantity information about multiple objects or entities. We use inexact words like "some", "a few", "each", "all", "most", and "a lot", precise numerical words like "three" and "four", and phrases like "at least four", "only three", and "many of the Xs." In this study, we are interested in children's preferred interpretation of these phrases, and how they change in different contexts and as they get older.
 
-<img style="float: right; max-width: 35%; height: 50%;" src="VerbalInterference.png">
+
+
+<br><img style="float: right; max-width: 35%; height: auto;" src="VerbalInterference.png">
 
 ## Comparing quantities while talking?
 
