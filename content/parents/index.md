@@ -25,7 +25,7 @@ If you’d like to join our database and hear more about new studies your child 
 
 Ready to jump in?! Here is a list of our currently available research studies. But don’t worry if you can’t find something for your child - we regularly add new studies for a range of ages! If you’d like to hear about future study opportunities, you can join our database by filling out this [Sign Up Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa). 
 
-<img style="float: right; max-width: auto; height: auto;" src="ManyFormatsLookit.png">
+<img style="float: right; max-width: 35%; height: auto;" src="ManyFormatsLookit.png">
 
 ## Decide which proportion is bigger!
 
