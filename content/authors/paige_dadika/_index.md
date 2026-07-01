@@ -14,7 +14,7 @@ role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Rutgers University
+  - name: University of Pennsylvania
     url: ''
     
 # Short bio (displayed in user profile at end of posts)

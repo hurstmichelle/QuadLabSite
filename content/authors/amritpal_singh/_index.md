@@ -14,11 +14,11 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Rutgers University
+  - name: Carnegie Mellon University
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: A postdoc interested in abstract cognition between and within cultures. 
+bio: In June 2026, Amrit began a postdoctoral fellowship at Carnegie Mellon University.
 
 interests:
 - Abstract, relational cognition and perception 
@@ -29,8 +29,11 @@ interests:
 education:
   courses:
     - course: Postdoc
+      institution: Carnegie Mellon University
+      year: 2026- current
+    - course: Postdoc
       institution: Rutgers University
-      year: 2024- current
+      year: 2024- 2026
     - course: PhD in Developmental Psychology
       institution: Cornell University
       year: 2018- 2024
@@ -49,9 +52,9 @@ social:
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Amritpal_Singh_CV.pdf
+# icon: cv
+# icon_pack: ai
+# link: uploads/Amritpal_Singh_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Scholars
+  - Alumni
 ---
 
-I am interested in abstract cognition. What are the contextual and developmental forces that shape how abstractly we think and the manner in which we reason about abstract entities? In my dissertation work, I investigated differences in abstract thought across and within cultures, operationalizing abstract thought in different ways (i.e., event cognition and analogical reasoning). In the Quad Lab, I am interested in studying how context and time shape how we think and learn about abstracts like quantity, probability, and proportion.
+In June 2026, Amrit began a postdoctoral fellowship at Carnegie Mellon University.
