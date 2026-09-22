@@ -21,8 +21,9 @@ organizations:
 bio: Lab Manager interested in conceptual change and variability in learning across development 
 
 interests:
-- Cognitive Development
-- Early Education
+- Intuitive Theories
+- Relational Reasoning
+- Object Cognition
 
 education:
   courses:
@@ -57,6 +58,6 @@ user_groups:
   - Staff
 ---
 
-I am broadly interested in cognitive development and delineating the nature of conceptual change in children. I intend to leverage our knowledge of early cognition to help design interventions in education that can address children’s intra-individual and inter-individual variability in learning throughout development.
+I am broadly interested in relational reasoning and the process of conceptual acquisition and change in children. I am especially curious about how children construct and revise theories about the physical world and come to represent and categorize different natural and object kinds. 
 
 In the Quad Lab, I'm excited to learn about how children form and access their symbolic and non-symbolic representations of number and which cognitive strategies they use to compute quantitative information based on contextual cues.
