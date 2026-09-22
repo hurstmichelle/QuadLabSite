@@ -54,7 +54,7 @@ social:
     link: https://scholar.google.com/citations?user=cLZiGjcAAAAJ&hl=en
   - icon: cv
     icon_pack: ai
-    link: uploads/HURST_CV_2026-07-14.pdf
+    link: uploads/hurst_cv_2026_07_14.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
